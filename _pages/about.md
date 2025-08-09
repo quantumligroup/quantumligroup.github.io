@@ -28,7 +28,7 @@ Our group develops cutting-edge computational algorithms to tackle challenging p
 
 
 __Contact__<br>
-Office: Room 412, College of Science<br>
+Office: 东北大学，南湖校区，理学院，建筑学馆，412<br>
 Email: lishaozhi AT mail.neu.cn<br>
 Phone: 178-168-00839<br>
 
