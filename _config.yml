@@ -5,8 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-plugins:
-  - jekyll-multiple-languages-plugin
+
 
 
 languages: ["en", "zh"]
@@ -20,7 +19,7 @@ title_separator          : "-"
 name                     : &name "Shaozhi Li"
 description              : &description "personal description"
 url                      : https://quantumligroup.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/quantumligroup.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/quantumligroup/quantumligroup.github.io.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -315,6 +314,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-multiple-languages-plugin
 
 # Mimic GitHub Pages with --safe
 whitelist:
