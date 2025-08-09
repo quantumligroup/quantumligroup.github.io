@@ -1,0 +1,38 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+<h2>Preprint</h2>
+ <strong>[1]</strong> Quantum-inspired weight-constrained neural networks: reducing variable numbers by 100x compared to standard neural networks, Shaozhi Li, et al., arXiv: 2412.19355 (2025)
+
+
+
+<h2>Journal Papers</h2>
+{% assign publications = site.publications | sort: "year" | reverse %}
+
+<ol class="publication-list" style="list-style: none; padding-left: 0; margin-left: 0;">
+  {% for pub in publications %}
+    <li class="publication-item" style="margin-bottom: 1rem; padding-left: 2.5em; text-indent: 0em; position: relative; line-height: 1.5;">
+      <span style="position: absolute; left: 0; font-weight: bold;">[{{ forloop.index }}]</span>
+      {{ pub.title }},
+      {{ pub.authors }},
+      <em>{{ pub.venue }}</em>, 
+      {% if pub.volume %}<strong>{{ pub.volume }}</strong>{% endif %}
+      {% if pub.issue %}({{ pub.issue }}){% endif %}
+      {% if pub.pages %}{{ pub.pages }}{% endif %},
+      {{ pub.year }}.
+      [<a href="{{ pub.paperurl }}" target="_blank" style="color: #0066cc; text-decoration: none;">PDF</a>]
+      {% if pub.arxiv %} [<a href="{{ pub.arxiv }}" target="_blank" style="color: #0066cc; text-decoration: none;">arXiv</a>]{% endif %}
+    </li>
+  {% endfor %}
+</ol>
+
+
+
