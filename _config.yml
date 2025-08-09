@@ -314,7 +314,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-multiple-languages-plugin
+  #- jekyll-multiple-languages-plugin
 
 # Mimic GitHub Pages with --safe
 whitelist:
