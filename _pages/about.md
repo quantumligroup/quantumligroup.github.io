@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaozhi Li"
+title: "Shaozhi Li (李绍直)"
 author_profile: true
 redirect_from: 
   - /about/
