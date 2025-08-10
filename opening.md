@@ -3,7 +3,7 @@ title: "Open Positions"
 permalink: /opening/
 ---
 
-Our research group has several openings for:
+Our research group has openings for:
 
 - 2 Master’s students
 
@@ -11,4 +11,4 @@ Our research group has several openings for:
 
 If you’re passionate about quantum many-body systems, computational physics, or machine learning applications in physics, we’d love to hear from you!
 
-How to Apply: Contact me at lishaozhi@mail.neu.cn with a brief statement of interest.
+How to Apply: Contact me at lishaozhi@mail.neu.edu.cn with a brief statement of interest.
