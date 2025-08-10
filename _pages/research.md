@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## **Project 1: Neural Network Quantum Monte Carlo**
 <div style="margin-left: 20px; text-align: center;">
-  <img src="../images/NNQMC.png" width="500"/>  
+  <img src="../images/NNQMC.png" width="450"/>  
   <p style="font-style: italic; margin-top: 10px;">Neural Network Quantum Monte Carlo</p>
 </div>
 
@@ -54,3 +54,16 @@ We investigate the dynamical spin response function of the **pd-model** for cupr
 - Shaozhi Li, Alberto Nocera, Umesh Kumar, and Steven Johnston, Communications Physics 4, 217 (2021) [PDF](https://www.nature.com/articles/s42005-021-00718-w)
 - Shaozhi Li and Emanuel Gull, Phys. Rev. Research 2, 013295 (2020) [PDF](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013295)
 - J.P.F.LeBlanc, Shaozhi Li, Xi Chen, et al., Phys. Rev. B 100, 075123 (2019) [PDF](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.075123)
+
+## **Project 5: Quantum Spin Liquids**
+  <div style="margin-left: 20px; text-align: center;">
+  <img src="../images/kitaev.png" width="300" style="max-width: 100%; height: auto;">  
+  <p style="font-style: italic; margin-top: 10px;">Band structure of the Kitaev model with spin-phonon interaction.</p>
+</div>
+  
+We investigate the impact of the spin-phonon interaction on the thermal Hall conductivty of $$\alpha$$-RuCl$$_3$$. The spin-phonon interaction arises from the vibration of Cl atoms, which modulates the superexchange interaction between spins on Ru atoms. Our findings show that the spin-phonon interaction reduces the band gap. When the band gap becomes smaller than the thermal energy, both the half-quantized Chern number and the half-quantized thermal Hall conductivity vanish. This result explains the sample-dependent quantized thermal Hall conductivity of $$\alpha$$-RuCl$$_3$$ observed in experiments.
+
+**Papers**:
+- Shaozhi Li and Satoshi Okamoto, Phys. Rev. B 106, 024413 (2022) [PDF](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.024413)
+- Shaozhi Li, Randy S. Fishman, and Tom Berlin, Phys. Rev. B 108, 064402 (2023) [PDF](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.064402)
+- Shaozhi Li, Phys. Rev. B 103, 104421 (2021) [PDF](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104421)
