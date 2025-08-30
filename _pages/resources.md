@@ -10,3 +10,18 @@ permalink: /resources/
 
 **Quantum Many Body Physics**
 - [Mahan](../books/Mahan2000_Book_Many-ParticlePhysics.pdf)
+
+
+**Install Quantum expresso with wannier90**
+- install lapack
+- prepare QE library
+- tar -xzvf qe-7.4.1.ReleasePack.targ.gz
+- ./configure --prefix=/path-to-QE/qe-7.4.1/build
+- cd external
+- mkdir lapack
+- cd lapack
+- cp /path-to-lapack-lib/* .
+- cd ../../
+- make all
+- make install
+- find applications in /build/bin
