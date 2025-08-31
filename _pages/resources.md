@@ -25,3 +25,4 @@ permalink: /resources/
 - make all
 - make install
 - find applications in /build/bin
+- [how to calculate projected band structure](https://pranabdas.github.io/espresso/hands-on/wannier/) 
