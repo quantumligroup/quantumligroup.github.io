@@ -26,7 +26,7 @@ permalink: /group-members/
       <img src="../images/yuanzi.jpg" width="100" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </div>
     <div style="font-style: regular;">
-      SHe focuses on studying topological superconductors.
+      She focuses on studying topological superconductors.
     </div>
   </div>
 
