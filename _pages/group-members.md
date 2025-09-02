@@ -20,8 +20,15 @@ permalink: /group-members/
     </div>
   </div>
 
+- Zi Yuan (袁姿)
+<div style="display: flex; align-items: center; margin: 15px 0 15px 20px; gap: 20px;">
+    <div style="flex-shrink: 0;">
+      <img src="../images/yuanzi.jpg" width="100" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+    <div style="font-style: regular;">
+      SHe focuses on studying topological superconductors.
+    </div>
+  </div>
 
-### Undergraduate Students
-- XXXXX
-We're seeking 3-4 motivated Master's students to join our growing research team.
+
 
