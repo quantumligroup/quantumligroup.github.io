@@ -309,6 +309,23 @@
   <li><a href="../books/Mahan2000_Book_Many-ParticlePhysics.pdf">Mahan</a></li>
 </ul>
 
+<p><strong>Install Quantum expresso with wannier90</strong></p>
+<ul>
+  <li>install lapack</li>
+  <li>prepare QE library</li>
+  <li>tar -xzvf qe-7.4.1.ReleasePack.targ.gz</li>
+  <li>./configure –prefix=/path-to-QE/qe-7.4.1/build</li>
+  <li>cd external</li>
+  <li>mkdir lapack</li>
+  <li>cd lapack</li>
+  <li>cp /path-to-lapack-lib/* .</li>
+  <li>cd ../../</li>
+  <li>make all</li>
+  <li>make install</li>
+  <li>find applications in /build/bin</li>
+  <li><a href="https://pranabdas.github.io/espresso/hands-on/wannier/">how to calculate projected band structure</a></li>
+</ul>
+
 
         
 
@@ -380,7 +397,7 @@
 
 <div class="page__footer-copyright">
   &copy; 2025 Shaozhi Li, Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated 2025-08-25
+  Site last updated 2025-10-09
 </div>
 
       </footer>

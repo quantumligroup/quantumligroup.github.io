@@ -12,7 +12,7 @@ In this work, we develop Neural Network Quantum Monte Carlo (NNQMC) to accelerat
 
 **Papers**:  
 - Shaozhi Li, Philip M. Dee, Ehsan Khatami, and Steven Johnston, Phys. Rev. B 100 020302(R) (2019). [PDF](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.020302)
-
+- Shaozhi Li, Phys. Rev. B 112, 155121 (2025) [pdf](https://doi.org/10.1103/fdlm-w9mk)
 
 ## **Project 2: Nonlocal Electron-Phonon interaction**
 <div style="margin-left: 20px; text-align: center;">
