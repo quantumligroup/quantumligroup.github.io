@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## **Project 1: Quantum Machine Learning**
 <div style="margin-left: 20px; text-align: center;">
-  <img src="../images/HQNN.png" width="450"/>  
+  <img src="../images/HQNN.png" width="1000"/>  
   <p style="font-style: italic; margin-top: 10px;">Quantum Neural Network</p>
 </div>
 
