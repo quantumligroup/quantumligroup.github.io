@@ -2,7 +2,20 @@
 title: Research
 permalink: /research/
 ---
-## **Project 1: Neural Network Quantum Monte Carlo**
+## **Project 1: Quantum Machine Learning**
+<div style="margin-left: 20px; text-align: center;">
+  <img src="../images/HQNN.png" width="450"/>  
+  <p style="font-style: italic; margin-top: 10px;">Quantum Neural Network</p>
+</div>
+
+In this work, we investigate the mathematical principles underlying quantum neural networks and develop a classical weight-constrained neural network that reduces the number of trainable variables by two orders of magnitude. This approach provides a novel strategy for significantly decreasing the model size of large language models. In addition, we develop a generic hybrid quantum–classical neural network software package (HQNN) designed to efficiently perform quantum machine learning tasks. Compared with PennyLane AI, a widely used framework for quantum machine learning, HQNN not only supports parallelized training but also demonstrates higher efficiency in single-CPU computations. If you’re interested in this package, feel free to get in touch.
+
+**Achievements**:
+- Shaozhi Li, [HQNN software](../books/HQNN_user_guide.pdf) (2026)
+- Shaozhi Li, et al., arXiv:2412.19355 (2025), accepted by Physical Review Research (2026).
+
+
+## **Project 2: Neural Network Quantum Monte Carlo**
 <div style="margin-left: 20px; text-align: center;">
   <img src="../images/NNQMC.png" width="450"/>  
   <p style="font-style: italic; margin-top: 10px;">Neural Network Quantum Monte Carlo</p>
@@ -14,7 +27,7 @@ In this work, we develop Neural Network Quantum Monte Carlo (NNQMC) to accelerat
 - Shaozhi Li, Philip M. Dee, Ehsan Khatami, and Steven Johnston, Phys. Rev. B 100 020302(R) (2019). [PDF](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.100.020302)
 - Shaozhi Li, Phys. Rev. B 112, 155121 (2025) [pdf](https://doi.org/10.1103/fdlm-w9mk)
 
-## **Project 2: Nonlocal Electron-Phonon interaction**
+## **Project 3: Nonlocal Electron-Phonon interaction**
 <div style="margin-left: 20px; text-align: center;">
   <img src="../images/suppressJ.png" width="500"/>  
   <p style="font-style: italic; margin-top: 10px;">The effect of nonlocal e-ph interaction on the superexchange interaction.</p>
@@ -26,7 +39,7 @@ In this work, we develop a Determinant Quantum Monte Carlo (DQMC) method capable
 - Shaozhi Li and Steven Johnston, npj quantum materials 5 40 (2020) [PDF](https://www.nature.com/articles/s41535-020-0243-3).  
 - Shaozhi Li and Steven Johnston, Phys. Rev. B 108 L201113 (2023) [PDF](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.L201113)  
     
-## **Project 3: Topological Superconductor**
+## **Project 4: Topological Superconductor**
 <div style="margin-left: 20px; text-align: center;">
   <img src="../images/forward.png" width="500"/>  
   <p style="font-style: italic; margin-top: 10px;">Interfacial electron-phonon interaction induced topological superconductivity.</p>
@@ -38,7 +51,7 @@ In this work, we propose a new Rashba-free mechanism to realize topological supe
 - Shaozhi Li, Lun-Hui Hu, Rui-Xing Zhang, Satoshi Okamoto, Communications Physics 6, 235 (2023). [PDF](https://www.nature.com/articles/s42005-023-01311-z)
 
 
-## **Project 4: Dynamical response functions**
+## **Project 5: Dynamical response functions**
 <div style="margin-left: 20px; text-align: center;">
   <img src="../images/particle-hole.png" width="1200" style="max-width: 100%; height: auto;">  
   <p style="font-style: italic; margin-top: 10px;">Dynamical spin response for the cuprate superconductors.</p>
@@ -55,7 +68,7 @@ We investigate the dynamical spin response function of the **pd-model** for cupr
 - Shaozhi Li and Emanuel Gull, Phys. Rev. Research 2, 013295 (2020) [PDF](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013295)
 - J.P.F.LeBlanc, Shaozhi Li, Xi Chen, et al., Phys. Rev. B 100, 075123 (2019) [PDF](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.075123)
 
-## **Project 5: Quantum Spin Liquids**
+## **Project 6: Quantum Spin Liquids**
   <div style="margin-left: 20px; text-align: center;">
   <img src="../images/kitaev.png" width="300" style="max-width: 100%; height: auto;">  
   <p style="font-style: italic; margin-top: 10px;">Band structure of the Kitaev model with spin-phonon interaction.</p>
