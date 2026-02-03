@@ -12,4 +12,7 @@ permalink: /resources/
 - [Mahan](../books/Mahan2000_Book_Many-ParticlePhysics.pdf)
 
 **Quantum expresso + wannier90 for electron-phonon coupling**
-[note](../books/elph.pdf)
+- [note](../books/elph.pdf)
+
+** Hybrid Quantum-Classical Neural Network software (HQNN)**
+- [User guide](../books/HQNN_user_guide.pdf)
