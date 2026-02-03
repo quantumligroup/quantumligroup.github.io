@@ -14,5 +14,5 @@ permalink: /resources/
 **Quantum expresso + wannier90 for electron-phonon coupling**
 - [note](../books/elph.pdf)
 
-** Hybrid Quantum-Classical Neural Network software (HQNN)**
+**Hybrid Quantum-Classical Neural Network software (HQNN)**
 - [User guide](../books/HQNN_user_guide.pdf)
