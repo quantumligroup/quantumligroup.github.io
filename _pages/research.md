@@ -12,7 +12,7 @@ In this work, we investigate the mathematical principles underlying quantum neur
 
 **Achievements**:
 - Shaozhi Li, [HQNN software](../books/HQNN_user_guide.pdf) (2026)
-- Shaozhi Li, et al., arXiv:2412.19355 (2025), accepted by Physical Review Research (2026).
+- Shaozhi Li, et al., Physical Review Research 8， 013142 (2026)  [pdf](https://doi.org/10.1103/wb1b-ntpc).
 
 
 ## **Project 2: Neural Network Quantum Monte Carlo**
