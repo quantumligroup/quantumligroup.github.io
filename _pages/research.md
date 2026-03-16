@@ -11,7 +11,7 @@ permalink: /research/
 In this work, we investigate the mathematical principles underlying quantum neural networks and develop a classical weight-constrained neural network that reduces the number of trainable variables by two orders of magnitude. This approach provides a novel strategy for significantly decreasing the model size of large language models. In addition, we develop a generic hybrid quantum–classical neural network software package (HQNN) designed to efficiently perform quantum machine learning tasks. Compared with PennyLane AI, a widely used framework for quantum machine learning, HQNN not only supports parallelized training but also demonstrates higher efficiency in single-CPU computations. If you’re interested in this package, feel free to get in touch.
 
 **Achievements**:
-- Shaozhi Li, [HQNN software](../books/HQNN_user_guide.pdf) (2026)
+- Shaozhi Li, [HQNN software](../books/HQNN_user_guide.pdf) (2026), China Computer Software Copyright Registration Number：2026SR0xxxxxx.
 - Shaozhi Li, et al., Physical Review Research 8， 013142 (2026)  [pdf](https://doi.org/10.1103/wb1b-ntpc).
 
 
