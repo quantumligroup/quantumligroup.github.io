@@ -3,4 +3,4 @@ title: "Open Positions"
 permalink: /opening/
 ---
 
-Sorry, we do not have any open positions
+Two positions are currently available for Master's students. Please send your CV to lishaozhi@mail.neu.edu.cn
